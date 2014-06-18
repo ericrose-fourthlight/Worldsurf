@@ -2,20 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ab0acb-1112-4c6d-a75a-9801bdac1417" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Worldsurf.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Worldsurf.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="54ab0acb-1112-4c6d-a75a-9801bdac1417" time="1403127621867" ignored="false" />
-    <file path="/index.html" changelist="54ab0acb-1112-4c6d-a75a-9801bdac1417" time="1403127958283" ignored="false" />
+    <file path="/index.html" changelist="54ab0acb-1112-4c6d-a75a-9801bdac1417" time="1403128205259" ignored="false" />
     <file path="/style.css" changelist="54ab0acb-1112-4c6d-a75a-9801bdac1417" time="1403127929955" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +31,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="16" selection-start="114" selection-end="114" vertical-scroll-proportion="0.17734724">
+            <state line="5" column="38" selection-start="149" selection-end="149" vertical-scroll-proportion="0.12917933">
               <folding />
             </state>
           </provider>
@@ -324,7 +316,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="114" selection-end="114" vertical-scroll-proportion="0.17734724">
+        <state line="5" column="38" selection-start="149" selection-end="149" vertical-scroll-proportion="0.12917933">
           <folding />
         </state>
       </provider>
